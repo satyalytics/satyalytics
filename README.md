@@ -22,7 +22,9 @@ Here are some ideas to get you started:
 <br />
 
 ### Languages and Tools:
-
+**Languages:** C, C++, Python<br />
+**Skills:** Data Analysis, Data visualization, Dashboard making, Machine Learning, Deep learning.<br /> 
+**Libraries:** Numpy, Pandas, Scipy, matplotlib, seaborn, scikit learn, tensorflow and keras.<br />
 <br />
 <br />
 

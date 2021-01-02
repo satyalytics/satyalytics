@@ -11,8 +11,6 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with open source contribution
 - 💬 Ask me about machine leanring
 - 📫 How to reach me: [LinkedIn][https://linkedin.com/in/iamsatyapati]
-- ⚡ Fun fact: I love to run and singing.
-
 
 ### Connect with me:
 
